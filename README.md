@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 📍 About Me:
 Hi, I’m **Avadhut Satpute**, an AIML engineering student passionate about **AI, Python, and building real-world tech projects**. I enjoy creating intelligent systems like **AI assistants and IoT-based solutions**, while constantly exploring new technologies and improving my development skills.<br>
 
 
