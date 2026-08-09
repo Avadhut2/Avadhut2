@@ -40,6 +40,8 @@ capable of image capture, and Telegram alerts with an integrated cloud dashboard
 
 </div>
 
+![GitHub Snake](https://github.com/your-username/Avadhut2/blob/output/github-contribution-grid-snake.svg)
+
 ![](https://streak-stats.demolab.com/?user=Avadhut2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Avadhut2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
