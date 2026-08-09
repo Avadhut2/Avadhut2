@@ -43,7 +43,7 @@ capable of image capture, and Telegram alerts with an integrated cloud dashboard
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avadhut2/Avadhut2/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avadhut2/Avadhut2/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Avadhut2/Avadhut2/output/github-snake.svg">
 </picture>
 
 ![](https://streak-stats.demolab.com/?user=Avadhut2&theme=dark&hide_border=false)<br/>
