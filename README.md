@@ -36,7 +36,6 @@ capable of image capture, and Telegram alerts with an integrated cloud dashboard
 
 <img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
-<img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
 </div>
 
