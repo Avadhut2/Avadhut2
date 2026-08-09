@@ -40,11 +40,9 @@ capable of image capture, and Telegram alerts with an integrated cloud dashboard
 
 </div>
 
-![](https://github-readme-stats.shion.dev/api?username=Avadhut2&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Avadhut2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Avadhut2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Avadhut2&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
