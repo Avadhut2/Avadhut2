@@ -6,7 +6,7 @@
 
 [instagram](https://www.instagram.com/ft.avadhut_/) &nbsp;·&nbsp;
 [linkedin](https://www.linkedin.com/in/avadhut-satpute-187044306/) &nbsp;·&nbsp;
-[email](mailto:avadhutsatpute2006@gmail.com)
+[email](mailto:avadhutsatpute@proton.me)
 
 </div>
 
