@@ -14,6 +14,7 @@
 
 > AIML student at KITCOEK.<br>
 > Passionate about Python, Web Development, Backend systems, and UI/UX.
+> Open Source Contributor 
 
 I am an aspiring software developer eager to build and test ideas. Right now, I am focusing on building interactive web experiences, seamless backend systems, and honing my Python skills.<br>
 Check out some of my recent work below!
@@ -23,6 +24,10 @@ Check out some of my recent work below!
 <samp>python &nbsp; react &nbsp; html &nbsp; css &nbsp; ui/ux &nbsp; backend &nbsp; supabase &nbsp; ai &nbsp; iot &nbsp; git</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
+
+**[Phone2PC](https://github.com/Avadhut2/Phone2PC)** &nbsp;·&nbsp; <samp>python, C# </samp><br>
+PhoneKey is a Windows authentication system that allows users to unlock their PC <br>
+using biometric authentication on their smartphone.
 
 **[AwakeGuard](https://github.com/Avadhut2/AwakeGuard)** &nbsp;·&nbsp; <samp>iot, esp32-cam, ai, supabase</samp><br>
 A smart IoT-based Driver Drowsiness Detection System built using ESP32-CAM, AI, and Supabase,<br>
