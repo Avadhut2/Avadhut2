@@ -25,7 +25,7 @@ Check out some of my recent work below!
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[Phone2PC](https://github.com/Avadhut2/Phone2PC)** &nbsp;·&nbsp; <samp>python, C# </samp><br>
+**[Phone2PC](https://github.com/Avadhut2/Phone2PC)** &nbsp;·&nbsp; <samp>Kotlin, C# </samp><br>
 PhoneKey is a Windows authentication system that allows users to unlock their PC <br>
 using biometric authentication on their smartphone.
 
